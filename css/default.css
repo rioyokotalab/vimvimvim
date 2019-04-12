@@ -1,11 +1,14 @@
 @charset "utf-8";
 
 #contents{
-	width: 90%;
 	max-width: 900px;
 	margin: 0 auto;
 }
 
 .text-center{
 	text-align: center;
+}
+
+.container{
+	padding: 0;
 }
